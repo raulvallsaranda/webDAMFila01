@@ -1,0 +1,5 @@
+Alumne				        Població
+------------------------	---------------------
+Alumne01     		        Xàtiva
+Ruben Santacatalina         Olleria
+Antuan Guillen              Valencia
